@@ -8,7 +8,7 @@ This is a [giter8](https://github.com/n8han/giter8) template for generating a ne
 
 ## Usage
 
-    # create project and open using idea
+    # create project and open using idea.
     g8 vkomulai/basic-scala-project.g8
     cd {your-project}
     sbt gen-idea
