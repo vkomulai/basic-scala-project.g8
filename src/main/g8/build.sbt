@@ -4,7 +4,7 @@ organization := "$organization$"
 
 version := "$version$"
 
-scalaVersion := "2.11.1"
+scalaVersion := "2.11.6"
 
 libraryDependencies ++= Seq(
   "org.scalatest" % "scalatest_2.11" % "2.2.2" % "test" withSources() withJavadoc(),
